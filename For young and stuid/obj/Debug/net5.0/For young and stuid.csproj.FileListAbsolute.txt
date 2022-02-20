@@ -1,0 +1,16 @@
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.exe
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.deps.json
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.runtimeconfig.json
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.runtimeconfig.dev.json
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.dll
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\ref\For young and stuid.dll
+C:\Users\h2001\source\repos\For young and stuid\bin\Debug\net5.0\For young and stuid.pdb
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.csproj.AssemblyReference.cache
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.AssemblyInfoInputs.cache
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.AssemblyInfo.cs
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.csproj.CoreCompileInputs.cache
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.dll
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\ref\For young and stuid.dll
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.pdb
+C:\Users\h2001\source\repos\For young and stuid\obj\Debug\net5.0\For young and stuid.genruntimeconfig.cache

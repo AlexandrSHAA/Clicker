@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WpfMyTry/1.0.0": {
+        "dependencies": {
+          "WpfLibraryTry": "1.0.0"
+        },
+        "runtime": {
+          "WpfMyTry.dll": {}
+        }
+      },
+      "WpfLibraryTry/1.0.0": {
+        "runtime": {
+          "WpfLibraryTry.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfMyTry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WpfLibraryTry/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

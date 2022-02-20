@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "For young and stuid/1.0.0": {
+        "runtime": {
+          "For young and stuid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "For young and stuid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

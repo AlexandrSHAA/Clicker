@@ -1,0 +1,51 @@
+﻿<Window x:Class="WpfMyTry.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfMyTry"
+        xmlns:col="clr-namespace:System.Collections;assembly=mscorlib"
+        mc:Ignorable="d"
+        
+        
+        Title="MainWindow" Height="450" Width="800">
+    <Grid AutomationProperties.ItemType="" AutomationProperties.Name="MyRangeBox">
+        <Button Click="LeftMouse" Content="Button" HorizontalAlignment="Left" Margin="303,265,0,0" VerticalAlignment="Top" Height="100" Width="150"/>
+        <TextBlock Name="MyVisualBlock" Padding="100" HorizontalAlignment="Center" Margin="0,77,0,0" Text="0000" TextWrapping="Wrap" VerticalAlignment="Top" Height="151" Width="264"/>
+        <Button Click="LeftMouseRseset" Content="Reset" HorizontalAlignment="Left" Margin="28,29,0,0" VerticalAlignment="Top" Width="150" Height="25"/>
+        <ComboBox HorizontalAlignment="Left" Margin="28,195,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="ComboBox_Selected">
+            <ComboBoxItem/> 2
+            <ComboBoxItem/> 4
+            <ComboBoxItem/> 8
+        </ComboBox>
+        <RadioButton Content="RadioButton" HorizontalAlignment="Left" Margin="551,29,0,0" VerticalAlignment="Top" Height="20" Width="95"/>
+        <ProgressBar HorizontalAlignment="Left" Height="25" Margin="268,29,0,0" VerticalAlignment="Top" Width="228"/>
+        <ListBox Margin="551,85,41,217">
+
+            <ListBoxItem Content="Лучшие из лучших:"/>
+            <ListBoxItem Content="{Binding BestCounter}"/>
+            <ListBoxItem Content="{Binding SecondCounter}"/>
+            <ListBoxItem Content="{Binding ThirdCounter}"/>
+            <ListBoxItem Content="{Binding FourthCounter}"/>
+
+        </ListBox>
+
+        <Button Click="EndGame" Content="Finish" HorizontalAlignment="Left" Margin="344,388,0,0" VerticalAlignment="Top" Width="76"/>
+        <TextBox HorizontalAlignment="Left" Margin="28,120,0,0" Text="Enter Name" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="TextBox_TextChanged"/>
+        <Grid>
+            <ListView ItemsSource="{Binding EmployeeList.List}" Margin="31,256,591,43" >
+                <ListView.View>
+                    <GridView >
+                        <GridViewColumn Width="70" Header="Score" DisplayMemberBinding="{Binding Counter}" />
+                        <GridViewColumn Header="Name" DisplayMemberBinding="{Binding Name}" />
+                    </GridView>
+                </ListView.View>
+            </ListView>
+        </Grid>
+
+
+
+
+
+    </Grid>
+</Window>

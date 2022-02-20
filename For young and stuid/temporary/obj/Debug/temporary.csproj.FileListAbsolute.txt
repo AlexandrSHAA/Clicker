@@ -1,0 +1,7 @@
+C:\Users\h2001\source\repos\For young and stuid\temporary\bin\Debug\temporary.exe.config
+C:\Users\h2001\source\repos\For young and stuid\temporary\bin\Debug\temporary.exe
+C:\Users\h2001\source\repos\For young and stuid\temporary\bin\Debug\temporary.pdb
+C:\Users\h2001\source\repos\For young and stuid\temporary\obj\Debug\temporary.csproj.AssemblyReference.cache
+C:\Users\h2001\source\repos\For young and stuid\temporary\obj\Debug\temporary.csproj.CoreCompileInputs.cache
+C:\Users\h2001\source\repos\For young and stuid\temporary\obj\Debug\temporary.exe
+C:\Users\h2001\source\repos\For young and stuid\temporary\obj\Debug\temporary.pdb

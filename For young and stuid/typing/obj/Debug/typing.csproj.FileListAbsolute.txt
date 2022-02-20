@@ -1,0 +1,7 @@
+C:\Users\h2001\source\repos\For young and stuid\typing\bin\Debug\typing.exe.config
+C:\Users\h2001\source\repos\For young and stuid\typing\bin\Debug\typing.exe
+C:\Users\h2001\source\repos\For young and stuid\typing\bin\Debug\typing.pdb
+C:\Users\h2001\source\repos\For young and stuid\typing\obj\Debug\typing.csproj.AssemblyReference.cache
+C:\Users\h2001\source\repos\For young and stuid\typing\obj\Debug\typing.csproj.CoreCompileInputs.cache
+C:\Users\h2001\source\repos\For young and stuid\typing\obj\Debug\typing.exe
+C:\Users\h2001\source\repos\For young and stuid\typing\obj\Debug\typing.pdb

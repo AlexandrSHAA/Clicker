@@ -1,0 +1,7 @@
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\bin\Debug\ExtentionStudentDel.exe.config
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\bin\Debug\ExtentionStudentDel.exe
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\bin\Debug\ExtentionStudentDel.pdb
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\obj\Debug\ExtentionStudentDel.csproj.AssemblyReference.cache
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\obj\Debug\ExtentionStudentDel.csproj.CoreCompileInputs.cache
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\obj\Debug\ExtentionStudentDel.exe
+C:\Users\h2001\source\repos\For young and stuid\ExtentionStudentDel\obj\Debug\ExtentionStudentDel.pdb
