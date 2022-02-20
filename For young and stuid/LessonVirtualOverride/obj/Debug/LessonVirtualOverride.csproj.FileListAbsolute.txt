@@ -1,7 +1,0 @@
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\bin\Debug\LessonVirtualOverride.exe.config
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\bin\Debug\LessonVirtualOverride.exe
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\bin\Debug\LessonVirtualOverride.pdb
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\obj\Debug\LessonVirtualOverride.csproj.AssemblyReference.cache
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\obj\Debug\LessonVirtualOverride.csproj.CoreCompileInputs.cache
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\obj\Debug\LessonVirtualOverride.exe
-C:\Users\h2001\source\repos\For young and stuid\LessonVirtualOverride\obj\Debug\LessonVirtualOverride.pdb

@@ -1,7 +1,0 @@
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\bin\Debug\Life Is Broken.exe.config
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\bin\Debug\Life Is Broken.exe
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\bin\Debug\Life Is Broken.pdb
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\obj\Debug\Life Is Broken.csproj.AssemblyReference.cache
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\obj\Debug\Life Is Broken.csproj.CoreCompileInputs.cache
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\obj\Debug\Life Is Broken.exe
-C:\Users\h2001\source\repos\For young and stuid\Life Is Broken\obj\Debug\Life Is Broken.pdb
